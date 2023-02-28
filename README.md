@@ -11,8 +11,8 @@ Here is a "Make"-similar Application for executing actions saved in an ini file
 ## 💻 Platform support:            
 ### cross-platform compiling is possible, tested under Win32 and Win64
 
-<br>
-## :scroll: Instructions will come soon. Please be patient...
+## :scroll: Instructions
+Will come soon. Please be patient...
 
 ## ✔️ It currently supports:
 - [x] section-oriented command processing
