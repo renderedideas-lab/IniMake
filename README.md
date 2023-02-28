@@ -1,12 +1,15 @@
 # IniMake
 
-<img src="https://github.com/renderedideas-lab/ReceiverDAT/blob/main/Receiver.png" width=100%>
+<img src="" width=100%>
 
 Here is a "Make"-similar Application for executing actions saved in an ini file
 
-## 🏠 Current version:             1.0
-## 🧬 Used Programming language:   PASCAL / Free Pascal / Lazarus IDE
-## 💻 Platform support:            cross-platform compiling is possible, tested under Win32 and Win64
+## 🏠 Current version:             
+#### 1.0
+## 🧬 Used Programming language:   
+#### PASCAL / Free Pascal / Lazarus IDE
+## 💻 Platform support:            
+#### cross-platform compiling is possible, tested under Win32 and Win64
 
 ## ✔️ It currently supports:
 - [x] section-oriented command processing
